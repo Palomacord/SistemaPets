@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Paloma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Paloma\\.nuget\\packages"
+    ]
+  }
+}
